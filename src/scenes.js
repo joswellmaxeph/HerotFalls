@@ -856,7 +856,7 @@ Crafty.scene('Loading', function () {
             spr_text_back: [0, 0]
         });
         
-        Crafty.sprite(160, 32, 'assets/trep_points.png', {
+        Crafty.sprite(103, 32, 'assets/trep_points.png', {
             spr_trep_points: [0, 0]
         });
         
